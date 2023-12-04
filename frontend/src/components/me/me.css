@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+.segment{
+    background: rgba(0, 0, 0, 0.93);
+    height: 70vh;
+    align-items: center;
+    display: flex;
+    gap: 7rem;
+}
+
+.my-text{
+    font-family: Fira Code;
+    background: linear-gradient(166deg, #FAFF00 0%, #F900D2 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    flex-basis: 80%;
+    font-weight: 600;
+    text-align: left;
+    padding-left: 8rem;
+}
+
+.pic{
+    width: 383px;
+    height: 366px;
+    flex-basis: 20%;
+    padding-right: 8rem;
+}
+
+.love{
+font-size: 40px;
+font-weight: 800;
+background: linear-gradient(94deg, #F00 -5.43%, #FF00A8 65.92%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.name{
+font-size: 40px;
+background: linear-gradient(91deg, #F00 -6.74%, #FF00D6 113.91%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.description{
+font-size: 19px;
+background: linear-gradient(92deg, #F00 -8.88%, #F900D2 119.1%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+

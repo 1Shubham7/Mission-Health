@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Ubuntu&display=swap');
+
+.caltech-segment{
+    background-image: url('bgbg.png');
+    background-size:cover;
+    height: 130vh;
+}
+
+.hero-text{
+    /* color: #A31010;
+    font-family: Jolly Lodger; */
+    color: #fff;
+    font-size: 4.0625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 20rem;
+    padding-left: 10rem;
+    padding-right: 30rem;
+    font-family: 'Ubuntu', sans-serif;
+}
