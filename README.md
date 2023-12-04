@@ -17,6 +17,7 @@ The "Mission Health" project aims to enhance fitness routines by leveraging huma
     - [Steps](#steps)
   - [Running the App](#running-the-app)
   - [Contributing](#contributing)
+  - [Team Members](#team-members)
   - [Technologies Used](#technologies-used)
   - [Socials](#socials)
   - [License](#license)
@@ -92,6 +93,19 @@ We welcome contributions from the community! If you'd like to contribute to `Mis
 5. Submit a pull request to the main repository, describing the changes you've made.
 
 Our team will review your pull request, provide feedback, and, if everything looks good, merge it into the main codebase.
+
+## Team Members
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/1Shubham7"><img src="https://avatars.githubusercontent.com/u/116020663" width="100px;" alt="Shubham Singh"/><br /><sub><b>Shubham Singh</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/VedangTiwari"><img src="https://avatars.githubusercontent.com/u/134129154" width="100px;" alt="
+made-in-india"/><br /><sub><b>
+Vedang  Tiwari </b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/shivPratap007"><img src="https://avatars.githubusercontent.com/u/68414300" width="100px;" alt="Viktorius Suwandi"/><br /><sub><b>Shiv Pratap</b></sub></a</td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/nikohoffren"><img src="https://avatars.githubusercontent.com/u/134129154" width="100px;" alt="Niko Hoffrén"/><br /><sub><b>Vishwash Tayal</b></sub></a</td>
+  </tbody>
 
 ## Technologies Used
 
