@@ -101,8 +101,6 @@ Our team will review your pull request, provide feedback, and, if everything loo
 - Expressjs
 - HTML/CSS (for UI)
 
-
-
 ## Socials
 
 [![LinkedIn][LinkedIn-Badge]](https://www.linkedin.com/in/shubham-singh-5a002b20b/)  [![Twitter][Twitter-Badge]](https://twitter.com/1shubham7) [![YouTube][YouTube-Badge]](https://youtube.com/@shubham7950) 
